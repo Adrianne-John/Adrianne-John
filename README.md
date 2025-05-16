@@ -1,11 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrianne John G. Camus
 ==============================================================================================================================================
 
-Computer Engineering Student
+3rd Year Computer Engineering Student
 ----------------------------
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
-
-Welcome to my GitHub portfolio! I'm a 3rd-year Computer Engineering student passionate about crafting interactive and user-friendly web applications. With a strong foundation in programming and a keen interest in web development, I enjoy building projects that blend creativity with technical expertise. My goal is to create impactful solutions through clean code and innovative design.
+<table align= "center">
+  <tr>
+    <td width="30%" style="vertical-align: top;">
+      <div align="center">
+        <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+      </div>
+    </td>
+    <td width="70%" style="vertical-align: top;">
+      <div align="left">
+  Welcome to my GitHub portfolio! I'm a 3rd-year Computer Engineering student passionate about crafting interactive and user-friendly web applications. With a strong foundation in programming and a keen interest in web development, I enjoy building projects that blend creativity with technical expertise. My goal is to create impactful solutions through clean code and innovative design.
+      </div>
+    </td>
+  </tr>
+</table>
 
 * 🌍  I'm based in the Philippines
 * 🖥️  See my portfolio at [CamusOfficial](http://camusofficial.vercel.app)
@@ -25,10 +36,28 @@ Welcome to my GitHub portfolio! I'm a 3rd-year Computer Engineering student pass
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats: </b>
 
-<a href="http://www.github.com/Adrianne-John"><img src="https://github-readme-stats.vercel.app/api?username=Adrianne-John&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adrianne-John's GitHub stats" /></a>
-
-<a href="http://www.github.com/Adrianne-John"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianne-John&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Adrianne-John" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianne-John&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <div align="center">
+        <a href="http://www.github.com/Adrianne-John">
+          <img src="https://github-readme-stats.vercel.app/api?username=Adrianne-John&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adrianne-John's GitHub stats" width="100%" />
+        </a>
+      </div>
+      <div align="center">
+        <a href="http://www.github.com/Adrianne-John">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianne-John&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <div align="center">
+        <a href="https://github.com/Adrianne-John">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianne-John&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
