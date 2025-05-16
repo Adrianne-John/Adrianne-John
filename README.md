@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Engineering Student
 ----------------------------
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 Welcome to my GitHub portfolio! I'm a 3rd-year Computer Engineering student passionate about crafting interactive and user-friendly web applications. With a strong foundation in programming and a keen interest in web development, I enjoy building projects that blend creativity with technical expertise. My goal is to create impactful solutions through clean code and innovative design.
 
