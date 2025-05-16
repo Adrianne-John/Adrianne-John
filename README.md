@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I'm a 3rd-year Computer Engineering student pass
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>
+                    </a>
 ### Badges
           <a
                       href="http://www.github.com/Adrianne-John"><img src="https://github-readme-stats.vercel.app/api?username=Adrianne-John&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adrianne-John's GitHub stats" /></a><a
