@@ -61,3 +61,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </td>
   </tr>
 </table>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Adrianne-John/Adrianne-John/output/snake.svg" alt="Snake animation" />
+
+###
+
