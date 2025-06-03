@@ -22,6 +22,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [CamusOfficial](http://camusofficial.vercel.app)
 * ✉️  You can contact me at [adriannejohncamusofficial@gmail.com](mailto:adriannejohncamusofficial@gmail.com)
 
+### Profile Views
+
 <img src="https://profile-counter.glitch.me/Adrianne-John/count.svg?" />
 
 ### Skills
